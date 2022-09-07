@@ -53,7 +53,7 @@ ROOT_PROJECT_DIR = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
 BASE_FIXTURE_PATH = os.path.join(
     ROOT_PROJECT_DIR,
     'fixtures',
-    'LegacyTests',
+    '',
     'Constantinople',
     'VMTests',
 )
