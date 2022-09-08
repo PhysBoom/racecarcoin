@@ -13,7 +13,7 @@ deps = {
         "lru-dict>=1.1.6",
         "mypy_extensions>=0.4.1,<1.0.0",
         "py-ecc>=1.4.7,<7.0.0",
-        "ethash @ git+https://github.com/PhysBoom/ethash.git",
+        "pyethash @ git+https://github.com/PhysBoom/ethash.git",
         "rlp>=3,<4",
         "trie>=2.0.0,<3",
     ],
